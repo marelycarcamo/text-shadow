@@ -1,8 +1,9 @@
-# TEXT SHADOW
+# Text Shadow
 
 Ejemplo de Text-Shadow
 
 https://marelycarcamo.github.io/text-shadow/
+
 <p align="justify">Este proyecto es un ejemplo simple de cómo usar la propiedad text-shadow en CSS para crear efectos de sombra en el texto. El proyecto consta de una sola página HTML que muestra seis títulos con diferentes estilos de sombra.</p>
 
 ## Características
